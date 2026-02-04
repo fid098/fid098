@@ -40,13 +40,6 @@ Currently learning about Flutter and Web Development <br>
 ![Redis Queue](https://img.shields.io/badge/-Redis%20Queue-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-## 📊 GitHub Stats
-[![Fidel's github stats](https://github-readme-stats.vercel.app/api?username=fid098&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/fid098)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fid098&layout=compact&theme=radical)](https://github.com/fid098)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fid098&theme=radical)](https://github.com/fid098)
-
 ## 🔥 Current Projects
 - 🚧 Building mobile apps with Flutter
 - 🌐 Exploring full-stack web development
