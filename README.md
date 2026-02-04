@@ -29,11 +29,11 @@ Currently learning about Flutter and Web Development <br>
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-[![Fidel's github stats](https://github-readme-stats.vercel.app/api?username=fidel098&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/fidel098)
+[![Fidel's github stats](https://github-readme-stats.vercel.app/api?username=fid098&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/fid098)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fidel098&layout=compact&theme=radical)](https://github.com/fidel098)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fid098&layout=compact&theme=radical)](https://github.com/fid098)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fidel098&theme=radical)](https://github.com/fidel098)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fid098&theme=radical)](https://github.com/fid098)
 
 ## 🔥 Current Projects
 - 🚧 Building mobile apps with Flutter
