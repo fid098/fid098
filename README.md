@@ -12,7 +12,8 @@ Currently learning about Flutter and Web Development <br>
 ## 🏆 Hackathons & Achievements
 - 🥇 **1st Place** - IC Hack 2026: Best use of Claude API
 - 🥇 **1st Place** - IC Hack 2026: Best use of Hacktron CLI
-- 🥇 **1st Place** - HackLondon 2026: Best use of MongoDB ATLAS 
+- 🥇 **1st Place** - HackLondon 2026: Best use of MongoDB ATLAS
+- 🥇 **1st Place** - Google Developer Group Hackaton: Best Workflow Tool
 
 ## 🛠️ Tech Stack
 
