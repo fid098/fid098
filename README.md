@@ -1,12 +1,12 @@
 ### Hey, I'm Fidel 👋
 Software Engineer sharing about my journey and learnings in tech <br>
 Studying Computer Science at the University of Manchester, United Kingdom <br>
-Currently learning about Flutter and Web Development <br>
+Currently learning about Flutter, Web Development, and C++ <br>
 
 ## 🚀 About Me
 - 🎓 Computer Science student at the University of Manchester
 - 💻 Passionate about building innovative solutions
-- 🌱 Currently exploring Flutter for mobile development and modern web technologies
+- 🌱 Currently exploring Flutter for mobile development, modern web technologies, and C++
 - 📚 Always eager to learn and grow in the tech industry
 
 ## 🏆 Hackathons & Achievements
@@ -29,6 +29,7 @@ Currently learning about Flutter and Web Development <br>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -56,8 +57,8 @@ Currently learning about Flutter and Web Development <br>
 ![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
 
 ## 🔥 Current Projects
-- 🚧 Building mobile apps with Flutter
-- 🌐 Exploring full-stack web development
+- 📈 Building **StockBud** — a Flutter social investing app
+- 🌐 Learning C++ by building Quantitaive and Financial projects
 - 💡 Working on personal projects to strengthen my skills
 
 ## 📫 Connect with Me
