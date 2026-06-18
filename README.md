@@ -1,5 +1,5 @@
 ## Experience 
-- Product Engineer: StockBud (Jan 2026 - Present)
+- Product Engineer: StockBud (Jan 2026 - Present) <br>
 Building a Social Financial Investment platform. 
 - Developer: Quants@UOM (March 2026- Present) <br>
 Building core components of Manex, a financial exchange system for university students.
